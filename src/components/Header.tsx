@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function Header() {
   return (
     <div className="flex justify-center items-center w-full border-b border-gray-300 bg-white py-6 sticky top-0">

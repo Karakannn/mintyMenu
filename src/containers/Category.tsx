@@ -15,9 +15,8 @@ export default function Categories() {
   const isMobile = useMediaQuery("(max-width: 640px)");
 
   const selectedCategory = menü.findIndex((item) => item.slug === params.categoryName);
-  const categoryProducts = menü.find((item) => item.slug === params.categoryName);
   const shallowMenü = [...menü];
-  
+
   const [open, setOpen] = useState(false);
   const [product, setProduct] = useState({});
 
@@ -77,7 +76,7 @@ export default function Categories() {
           </Tab.List>
         </div>
         <Tab.Panels>
-          <BreadCrump categoryName={categoryProducts?.category} />
+          <BreadCrump />
           {shallowMenü.map((category, index) => (
             <Tab.Panel key={index}>
               <div className="grid grid-cols-2 lg:grid-cols-4 gap-2 pt-4">
