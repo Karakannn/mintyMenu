@@ -15,7 +15,7 @@ const Icon = (props: IconProps) => {
       style={{ width: props.width, height: props.height }}
       className={`icon ${props.class ? props.class : ""}`}
     >
-      <use href={`src/assets/sprite.svg#${props.id}`} />
+      <use href={`/sprite.svg#${props.id}`} />
     </svg>
   );
 };
