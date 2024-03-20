@@ -1,0 +1,615 @@
+[
+  {
+    "category": "Waffle",
+    "slug": "waffle",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "items": [
+      {
+        "id": 1,
+        "name": "Seçmeli Waffle",
+        "price": "175 TL",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505"
+      },
+      {
+        "id": 2,
+        "name": "Seçmeli Waffle (1 Top Dondurma ile)",
+        "price": "192 TL",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505"
+      }
+    ]
+  },
+  {
+    "category": "Dondurma",
+    "slug": "ice-cream",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "items": [
+      {
+        "id": 3,
+        "name": "1 Top Dondurma",
+        "price": "35 TL",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "flavors": [
+          "Sade",
+          "Çikolata",
+          "Antep Fıstık",
+          "Limon",
+          "Çilek",
+          "Bisküvi",
+          "Kavun",
+          "Hindistan Cevizi",
+          "Karamel",
+          "Mavi Melek",
+          "Oreo",
+          "Frambuaz",
+          "Cheesecake",
+          "Ceviz",
+          "Bal",
+          "Badem",
+          "Snickers",
+          "Mango",
+          "Yeşil Elma",
+          "Tutti Frutti",
+          "Nane",
+          "Muz",
+          "Bitter",
+          "Portakal",
+          "Kiraz",
+          "Tiramisu"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Tatlılar",
+    "slug": "desserts",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "items": [
+      {
+        "id": 4,
+        "name": "Mozaik Pasta",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "129 TL"
+      },
+      {
+        "id": 5,
+        "name": "Magnolia",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "152 TL"
+      },
+      {
+        "id": 6,
+        "name": "Tiramisu",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "152 TL"
+      },
+      {
+        "id": 7,
+        "name": "İrmik Helvası",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "125 TL"
+      },
+      {
+        "id": 8,
+        "name": "Krep",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "159 TL"
+      },
+      {
+        "id": 9,
+        "name": "Çikolatalı Sufle",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "152 TL"
+      },
+      {
+        "id": 10,
+        "name": "Frambuazlı Cheesecake",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "152 TL"
+      },
+      {
+        "id": 11,
+        "name": "Limonlu Cheesecake",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "152 TL"
+      },
+      {
+        "id": 12,
+        "name": "Fondü (1 Kişilik)",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "172 TL"
+      },
+      {
+        "id": 13,
+        "name": "Fondü (1-2 Kişilik)",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "210 TL"
+      },
+      {
+        "id": 14,
+        "name": "Dondurma Delisi",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "210 TL"
+      },
+      {
+        "id": 15,
+        "name": "Porsiyon Makaron",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "160 TL"
+      },
+      {
+        "id": 16,
+        "name": "Pancake",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "159 TL"
+      },
+      {
+        "id": 17,
+        "name": "San Sebastian Cheesecake",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "159 TL"
+      },
+      {
+        "id": 18,
+        "name": "Fıstığım Pasta",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "158 TL"
+      },
+      {
+        "id": 19,
+        "name": "Karam Pasta",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "152 TL"
+      },
+      {
+        "id": 20,
+        "name": "Red Velvet Pasta",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "152 TL"
+      },
+      {
+        "id": 21,
+        "name": "Balım Pasta",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "156 TL"
+      }
+    ]
+  },
+  {
+    "category": "Tostlar, Omletler ve Patates Kızartması",
+    "slug": "toasts-and-sides",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "items": [
+      {
+        "id": 22,
+        "name": "Soğan Halkası ve Patates Kızartması",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "160 TL"
+      },
+      {
+        "id": 23,
+        "name": "Patates Kızartması",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "145 TL"
+      },
+      {
+        "id": 24,
+        "name": "Kaşarlı Tost",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "160 TL"
+      },
+      {
+        "id": 25,
+        "name": "Bol Kaşarlı Tost",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "170 TL"
+      },
+      {
+        "id": 26,
+        "name": "Sade Omlet",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "145 TL"
+      },
+      {
+        "id": 27,
+        "name": "Kaşarlı Sucuklu Tost",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "170 TL"
+      },
+      {
+        "id": 28,
+        "name": "Kaşarlı Omlet",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "155 TL"
+      }
+    ]
+  },
+  {
+    "category": "Menemenler",
+    "slug": "menemen",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "items": [
+      {
+        "id": 29,
+        "name": "Sade Menemen",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "165 TL"
+      },
+      {
+        "id": 30,
+        "name": "Kaşarlı Menemen",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "170 TL"
+      },
+      {
+        "id": 31,
+        "name": "Sucuklu Menemen",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "175 TL"
+      }
+    ]
+  },
+  {
+    "category": "Kahveler",
+    "slug": "hot-coffees",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "items": [
+      {
+        "id": 32,
+        "name": "Americano",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "86 TL"
+      },
+      {
+        "id": 33,
+        "name": "Caffe Latte",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "86 TL"
+      },
+      {
+        "id": 34,
+        "name": "Caffe Mocha",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "91 TL"
+      },
+      {
+        "id": 35,
+        "name": "Aromalı Latte",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "91 TL"
+      },
+      {
+        "id": 36,
+        "name": "Double Espresso",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "78 TL"
+      },
+      {
+        "id": 37,
+        "name": "Single Espresso",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "72 TL"
+      },
+      {
+        "id": 38,
+        "name": "Cappuccino",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "86 TL"
+      },
+      {
+        "id": 39,
+        "name": "Aromalı Cappuccino",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "81 TL"
+      },
+      {
+        "id": 40,
+        "name": "White Chocolate Mocha",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "91 TL"
+      },
+      {
+        "id": 41,
+        "name": "Filtre Kahve",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "78 TL"
+      },
+      {
+        "id": 42,
+        "name": "Nescafe Gold",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "72 TL"
+      }
+    ]
+  },
+  {
+    "category": "Soğuk Kahveler",
+    "slug": "cold-coffees",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "items": [
+      {
+        "id": 43,
+        "name": "Buzlu Americano",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "95 TL"
+      },
+      {
+        "id": 44,
+        "name": "Buzlu Latte",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "100 TL"
+      },
+      {
+        "id": 45,
+        "name": "Buzlu Mocha",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "100 TL"
+      },
+      {
+        "id": 46,
+        "name": "Buzlu Fındık",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "100 TL"
+      },
+      {
+        "id": 47,
+        "name": "Buzlu Karamel",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "100 TL"
+      },
+      {
+        "id": 48,
+        "name": "Buzlu Beyaz Çikolata",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "100 TL"
+      }
+    ]
+  },
+  {
+    "category": "Milkshakeler",
+    "slug": "milkshakes",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "items": [
+      {
+        "id": 49,
+        "name": "Çikolatalı Milkshake",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "110 TL"
+      },
+      {
+        "id": 50,
+        "name": "Çilekli Milkshake",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "110 TL"
+      },
+      {
+        "id": 51,
+        "name": "Karamelli Milkshake",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "110 TL"
+      },
+      {
+        "id": 52,
+        "name": "Vanilyalı Milkshake",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "110 TL"
+      },
+      {
+        "id": 53,
+        "name": "Oreolu Milkshake",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "110 TL"
+      }
+    ]
+  },
+  {
+    "category": "Frozenlar",
+    "slug": "frozens",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "items": [
+      {
+        "id": 54,
+        "name": "Kivili Frozen",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "105 TL"
+      },
+      {
+        "id": 55,
+        "name": "Çilekli Frozen",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "105 TL"
+      },
+      {
+        "id": 56,
+        "name": "Kavunlu Frozen",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "105 TL"
+      },
+      {
+        "id": 57,
+        "name": "Nane-Limon Frozen",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "105 TL"
+      },
+      {
+        "id": 58,
+        "name": "Limon Frozen",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "105 TL"
+      },
+      {
+        "id": 59,
+        "name": "Şeftali Frozen",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "105 TL"
+      },
+      {
+        "id": 60,
+        "name": "Tropikano Frozen",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "120 TL"
+      }
+    ]
+  },
+  {
+    "category": "Frappeler",
+    "slug": "frappes",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "items": [
+      {
+        "id": 61,
+        "name": "Mocha Frappe",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "100 TL"
+      },
+      {
+        "id": 62,
+        "name": "Karamel Frappe",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "100 TL"
+      },
+      {
+        "id": 63,
+        "name": "Oreo Frappe",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "100 TL"
+      },
+      {
+        "id": 64,
+        "name": "Dondurmalı Frappe",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "120 TL"
+      }
+    ]
+  },
+  {
+    "category": "Sıcak İçecekler",
+    "slug": "hot-drinks",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "items": [
+      {
+        "id": 65,
+        "name": "Bardak Çay",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "30 TL"
+      },
+      {
+        "id": 66,
+        "name": "Fincan Çay",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "39 TL"
+      },
+      {
+        "id": 67,
+        "name": "Sahlep",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "95 TL"
+      },
+      {
+        "id": 68,
+        "name": "Sıcak Çikolata",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "95 TL"
+      },
+      {
+        "id": 69,
+        "name": "Beyaz Sıcak Çikolata",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "95 TL"
+      },
+      {
+        "id": 70,
+        "name": "Bitki Çayları",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "95 TL",
+        "varieties": ["Yeşil Çay", "Ada Çayı", "Papatya Çayı", "Kış Çayı", "Elma-Tarçın Çayı", "Ihlamur Çayı", "Hibiskus Çayı"]
+      }
+    ]
+  },
+  {
+    "category": "Taze Meyve Suları",
+    "slug": "fresh-fruit-juices",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "items": [
+      {
+        "id": 71,
+        "name": "Taze Portakal Suyu",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "88 TL"
+      },
+      {
+        "id": 72,
+        "name": "Doğal Limonata",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "80 TL"
+      },
+      {
+        "id": 73,
+        "name": "Muzlu Süt",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "95 TL"
+      }
+    ]
+  },
+  {
+    "category": "Soğuk İçecekler",
+    "slug": "cold-drinks",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "items": [
+      {
+        "id": 74,
+        "name": "Coca Cola",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "59 TL"
+      },
+      {
+        "id": 75,
+        "name": "Coca Cola Zero",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "59 TL"
+      },
+      {
+        "id": 76,
+        "name": "Fanta",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "59 TL"
+      },
+      {
+        "id": 77,
+        "name": "Sprite",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "59 TL"
+      },
+      {
+        "id": 78,
+        "name": "Cappy",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "59 TL"
+      },
+      {
+        "id": 79,
+        "name": "Ice Tea",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "59 TL",
+        "flavors": ["Limon", "Şeftali"]
+      },
+      {
+        "id": 80,
+        "name": "Sade Soda",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "53 TL"
+      },
+      {
+        "id": 81,
+        "name": "Meyveli Soda",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "54 TL"
+      },
+      {
+        "id": 82,
+        "name": "Redbull",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+        "price": "88 TL"
+      }
+    ]
+  }
+]

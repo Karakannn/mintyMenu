@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .custom-tab-list {
+    @apply max-sm:w-full w-min flex  mx-auto;
+  }
+
+  .custom-tab-item {
+    @apply border border-green-700 rounded-full text-base font-medium transition outline-none m-1 
+        ring-white/60 ring-offset-1 px-[10px] lg:px-[14px] py-[10px] whitespace-nowrap focus:ring-2;
+  }
+}
