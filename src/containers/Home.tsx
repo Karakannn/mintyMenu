@@ -10,20 +10,20 @@ export default function Home() {
     <div className="h-full">
       <div className="container m-auto px-2 py-4 lg:py-12">
         <div className="space-y-4">
-          <h5 className="text-primary-700 text-lg lg:text-2xl text-center font-semibold">İletişim</h5>
+          <h5 className="text-primary-700 text-lg lg:text-2xl text-center font-semibold ">İletişim</h5>
           <div className="flex gap-4">
             <a
               href="https://maps.app.goo.gl/GCvtrwUpFfodnuby9"
               target="_blank"
-              className="bg-primary-700  text-white font-bold py-3 px-4 rounded flex gap-4 max-md:flex-1 lg:w-min items-center"
+              className="bg-primary-700  text-white font-bold py-3 px-4 rounded flex gap-4 max-md:flex-1 lg:w-min items-center hover:bg-green-600 transition-colors"
             >
               <Icon class="stroke-white w-5 h-5" id={"location-mark"} />
               <span className="whitespace-nowrap text-base">Minty Cafe</span>
             </a>
 
-            <a href="/" target="_blank" className="bg-primary-700  text-white font-bold py-3 px-4 rounded flex gap-4 max-md:flex-1 lg:w-min items-center">
+            <a href="tel:+905392826477" target="_blank" className="bg-primary-700  text-white font-bold py-3 px-4 rounded flex gap-4 max-md:flex-1 lg:w-min items-center hover:bg-green-600 transition-colors">
               <Icon class="stroke-white w-5 h-5" id={"phone"} />
-              <span className="whitespace-nowrap text-base">323232323</span>
+              <span className="whitespace-nowrap text-base">0539 282 6477</span>
             </a>
           </div>
         </div>

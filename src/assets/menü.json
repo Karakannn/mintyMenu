@@ -21,7 +21,7 @@
   {
     "category": "Dondurma",
     "slug": "ice-cream",
-    "image": "/images/dondurma.jpg",
+    "image": "/mainImages/dondurma.jpeg",
     "items": [
       {
         "id": 3,
@@ -35,7 +35,7 @@
   {
     "category": "Tatlılar",
     "slug": "desserts",
-    "image": "",
+    "image": "/mainImages/tatlılar.jpeg",
     "items": [
       {
         "id": 4,
@@ -150,7 +150,7 @@
   {
     "category": "Tostlar, Omletler ve Patates Kızartması",
     "slug": "toasts-and-sides",
-    "image": "",
+    "image": "/mainImages/tost omlet ve pat.kız..jpeg",
     "items": [
       {
         "id": 22,
@@ -199,7 +199,7 @@
   {
     "category": "Menemenler",
     "slug": "menemen",
-    "image": "",
+    "image": "/images/sade menemen.jpeg",
     "items": [
       {
         "id": 29,
@@ -224,7 +224,7 @@
   {
     "category": "Kahveler",
     "slug": "hot-coffees",
-    "image": "",
+    "image": "/mainImages/kahveler.jpeg",
     "items": [
       {
         "id": 32,
@@ -297,7 +297,7 @@
   {
     "category": "Soğuk Kahveler",
     "slug": "cold-coffees",
-    "image": "",
+    "image": "/mainImages/soğuk kahveler.jpeg",
     "items": [
       {
         "id": 43,
@@ -340,7 +340,7 @@
   {
     "category": "Milkshakeler",
     "slug": "milkshakes",
-    "image": "",
+    "image": "/mainImages/milkshakeler.jpeg",
     "items": [
       {
         "id": 49,
@@ -377,7 +377,7 @@
   {
     "category": "Frozenlar",
     "slug": "frozens",
-    "image": "",
+    "image": "/mainImages/frozenlar.jpeg",
     "items": [
       {
         "id": 54,
@@ -426,7 +426,7 @@
   {
     "category": "Frappeler",
     "slug": "frappes",
-    "image": "",
+    "image": "/mainImages/frappeler.jpeg",
     "items": [
       {
         "id": 61,
@@ -457,7 +457,7 @@
   {
     "category": "Sıcak İçecekler",
     "slug": "hot-drinks",
-    "image": "",
+    "image": "/mainImages/sıcak içecekler.jpeg",
     "items": [
       {
         "id": 65,
@@ -501,7 +501,7 @@
   {
     "category": "Taze Meyve Suları",
     "slug": "fresh-fruit-juices",
-    "image": "",
+    "image": "/mainImages/taze meyve suları.jpeg",
     "items": [
       {
         "id": 71,
@@ -526,7 +526,7 @@
   {
     "category": "Soğuk İçecekler",
     "slug": "cold-drinks",
-    "image": "",
+    "image": "/mainImages/soğuk içecekler.jpeg",
     "items": [
       {
         "id": 74,

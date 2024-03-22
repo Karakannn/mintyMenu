@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 
-export default function useScroll(selectedTabIndex: number) {
+export default function useScroll(selectedTabIndex: number, isMobile) {
   const [isOverflowing, setIsOverflowing] = useState(false);
   const scrollContainerRef: any = useRef(null);
 
@@ -10,7 +10,7 @@ export default function useScroll(selectedTabIndex: number) {
       setIsOverflowing(element.scrollWidth > element.clientWidth);
       scrollToSelectedTab();
     }
-  }, [scrollContainerRef, selectedTabIndex]);
+  }, [scrollContainerRef, selectedTabIndex, isMobile]);
 
   const scrollToSelectedTab = () => {
     const element = scrollContainerRef.current;

@@ -21,8 +21,11 @@ export default function Categories() {
   const [products, setProducts] = useState([]);
 
   const [selectedIndex, setSelectedIndex] = useState(selectedCategory + 1);
-  const { isOverflowing, scrollContainerRef, scrollToRight } = useScroll(selectedIndex);
-
+  const { isOverflowing, scrollContainerRef, scrollToRight } = useScroll(selectedIndex, isMobile);
+  console.log(isOverflowing);
+  console.log(scrollContainerRef);
+  
+  
   const allProducts: { id: number; name: string; image: string; price: string }[] = [].concat(...menü.map((category: any) => category.items));
 
   useEffect(() => {
