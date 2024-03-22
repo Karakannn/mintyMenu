@@ -33,7 +33,7 @@ export default function ProductModal({ open, setOpen, product }: any) {
               <Dialog.Panel className="relative transform overflow-hidden rounded-lg bg-white text-left shadow-xl transition-all sm:my-8 w-full md:max-w-lg">
                 <div className="bg-white px-4 pb-4 pt-5 sm:p-6 sm:pb-4">
                   <div className="space-y-4">
-                    <img src={product.image} alt={product.name} className="w-auto h-full  rounded-t-lg" />
+                    <img src={product.image} alt={product.name} className="w-auto h-full max-h-[320px] object-contain mx-auto rounded-lg" />
 
                     <div className="mt-3 text-center sm:ml-4 sm:mt-0 ">
                       <Dialog.Title as="h3" className="text-base leading-6 text-gray-900">
