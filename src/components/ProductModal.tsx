@@ -33,15 +33,21 @@ export default function ProductModal({ open, setOpen, product }: any) {
               <Dialog.Panel className="relative transform overflow-hidden rounded-lg bg-white text-left shadow-xl transition-all sm:my-8 w-full md:max-w-lg">
                 <div className="bg-white px-4 pb-4 pt-5 sm:p-6 sm:pb-4">
                   <div className="space-y-4">
-                    <img src={product.image} alt={product.name} className="w-full h-[200px] object-cover rounded-t-lg" />
+                    <img src={product.image} alt={product.name} className="w-auto h-full  rounded-t-lg" />
 
-                    <div className="mt-3 text-center sm:ml-4 sm:mt-0 sm:text-left">
-                      <Dialog.Title as="h3" className="text-base font-semibold leading-6 text-gray-900">
+                    <div className="mt-3 text-center sm:ml-4 sm:mt-0 ">
+                      <Dialog.Title as="h3" className="text-base leading-6 text-gray-900">
                         {product.name}
                       </Dialog.Title>
                       <div className="mt-2">
-                        <p className="text-sm text-gray-500">{product.price}</p>
+                        <p className="text-xl font-bold text-gray-500">{product.price}</p>
                       </div>
+
+                      {product.description && (
+                        <div className="p-2 py-4">
+                          <p className="text-gray-500 text-sm">( {product.description} )</p>
+                        </div>
+                      )}
                     </div>
                   </div>
                 </div>
