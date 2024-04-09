@@ -7,13 +7,13 @@
       {
         "id": 1,
         "name": "Seçmeli Waffle",
-        "price": "175 TL",
+        "price": "210 TL",
         "image": "/images/waffle.jpeg"
       },
       {
         "id": 2,
         "name": "Seçmeli Waffle (1 Top Dondurma ile)",
-        "price": "192 TL",
+        "price": "230 TL",
         "image": "/images/waffle.jpeg"
       }
     ]
@@ -26,7 +26,7 @@
       {
         "id": 3,
         "name": "1 Top Dondurma",
-        "price": "35 TL",
+        "price": "45 TL",
         "image": "/images/dondurma.jpeg",
         "description": "Sade, Çikolata, Antep Fıstık, Limon, Çilek, Bisküvi, Kavun, Hindistan Cevizi, Karamel, Mavi Melek, Oreo, Frambuaz, Cheesecake, Ceviz, Bal, Badem, Snickers, Mango, Yeşil Elma, Tutti Frutti, Nane, Muz, Bitter, Portakal, Kiraz, Tiramisu"
       }
@@ -222,7 +222,7 @@
     ]
   },
   {
-    "category": "Kahveler",
+    "category": "Sıcak Kahveler",
     "slug": "hot-coffees",
     "image": "/mainImages/kahveler.jpeg",
     "items": [
@@ -291,6 +291,24 @@
         "name": "Nescafe Gold",
         "image": "/images/nescafe gold.jpeg",
         "price": "72 TL"
+      },
+      {
+        "id": 100,
+        "name": "Türk Kahvesi",
+        "image": "/images/turk_kahvesi.jpeg",
+        "price": "68 TL"
+      },
+      {
+        "id": 101,
+        "name": "Damla Sakızlı Türk Kahvesi",
+        "image": "/images/turk_kahvesi.jpeg",
+        "price": "70 TL"
+      },
+      {
+        "id": 103,
+        "name": "Çilekli Türk Kahvesi",
+        "image": "/images/turk_kahvesi.jpeg",
+        "price": "70 TL"
       }
     ]
   },
@@ -532,56 +550,68 @@
         "id": 74,
         "name": "Coca Cola",
         "image": "/images/cola.jpeg",
-        "price": "59 TL"
+        "price": "63 TL"
       },
       {
         "id": 75,
         "name": "Coca Cola Zero",
         "image": "/images/cola zero.jpeg",
-        "price": "59 TL"
+        "price": "63 TL"
       },
       {
         "id": 76,
         "name": "Fanta",
         "image": "/images/fanta.jpeg",
-        "price": "59 TL"
+        "price": "63 TL"
       },
       {
         "id": 77,
         "name": "Sprite",
         "image": "/images/sprite.jpeg",
-        "price": "59 TL"
+        "price": "63 TL"
       },
       {
         "id": 78,
         "name": "Cappy",
         "image": "/images/cappy.jpeg",
-        "price": "59 TL"
+        "price": "63 TL"
       },
       {
         "id": 79,
         "name": "Ice Tea",
         "image": "/images/ice tea.jpeg",
-        "price": "59 TL",
+        "price": "63 TL",
         "description": "Limon, Şeftali"
       },
       {
         "id": 80,
         "name": "Sade Soda",
         "image": "/images/sade soda.jpeg",
-        "price": "53 TL"
+        "price": "59 TL"
       },
       {
         "id": 81,
         "name": "Meyveli Soda",
         "image": "/images/meyveli soda.jpeg",
-        "price": "54 TL"
+        "price": "62 TL"
+      },
+      {
+        "id": 107,
+        "name": "Churchill",
+        "image": "/images/churchill.jpeg",
+        "price": "63 TL"
       },
       {
         "id": 82,
         "name": "Redbull",
         "image": "/images/redbull.jpeg",
-        "price": "88 TL"
+        "price": "92 TL"
+      },
+      {
+        "id": 105,
+        "name": "Su",
+        "image": "/images/su.jpeg",
+        "price": "30 TL"
       }
     ]
   }
