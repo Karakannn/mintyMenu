@@ -7,13 +7,13 @@
       {
         "id": 1,
         "name": "Seçmeli Waffle",
-        "price": "210 TL",
+        "price": "250 TL",
         "image": "/images/waffle.jpeg"
       },
       {
         "id": 2,
         "name": "Seçmeli Waffle (1 Top Dondurma ile)",
-        "price": "230 TL",
+        "price": "275 TL",
         "image": "/images/waffle.jpeg"
       }
     ]
@@ -26,7 +26,7 @@
       {
         "id": 3,
         "name": "1 Top Dondurma",
-        "price": "45 TL",
+        "price": "50 TL",
         "image": "/images/dondurma.jpeg",
         "description": "Sade, Çikolata, Antep Fıstık, Limon, Çilek, Bisküvi, Kavun, Hindistan Cevizi, Karamel, Mavi Melek, Oreo, Frambuaz, Cheesecake, Ceviz, Bal, Badem, Snickers, Mango, Yeşil Elma, Tutti Frutti, Nane, Muz, Bitter, Portakal, Kiraz, Tiramisu"
       }
@@ -41,19 +41,19 @@
         "id": 4,
         "name": "Mozaik Pasta",
         "image": "/images/mozaik pasta.jpeg",
-        "price": "148 TL"
+        "price": "175 TL"
       },
       {
         "id": 5,
         "name": "Magnolia",
         "image": "/images/magnolia.jpeg",
-        "price": "159 TL"
+        "price": "185 TL"
       },
       {
         "id": 6,
         "name": "Tiramisu",
         "image": "/images/tiramisu.jpeg",
-        "price": "159 TL"
+        "price": "175 TL"
       },
       {
         "id": 7,
@@ -65,85 +65,85 @@
         "id": 8,
         "name": "Krep",
         "image": "/images/krep.jpeg",
-        "price": "235 TL"
+        "price": "275 TL"
       },
       {
         "id": 9,
         "name": "Çikolatalı Sufle",
         "image": "/images/sufle.jpeg",
-        "price": "159 TL"
+        "price": "175 TL"
       },
       {
         "id": 10,
         "name": "Frambuazlı Cheesecake",
         "image": "/images/frambuazlı cheesecake.jpeg",
-        "price": "159 TL"
+        "price": "175 TL"
       },
       {
         "id": 11,
         "name": "Limonlu Cheesecake",
         "image": "/images/limonlu cheesecake.jpeg",
-        "price": "159 TL"
+        "price": "175 TL"
       },
       {
         "id": 12,
         "name": "Fondü (1 Kişilik)",
         "image": "/images/fondü.jpeg",
-        "price": "235 TL"
+        "price": "275 TL"
       },
       {
         "id": 13,
         "name": "Fondü (1-2 Kişilik)",
         "image": "/images/fondü.jpeg",
-        "price": "270 TL"
+        "price": "300 TL"
       },
       {
         "id": 14,
         "name": "Dondurma Delisi",
         "image": "/images/dondurma delisi.jpeg",
-        "price": "285 TL"
+        "price": "325 TL"
       },
       {
         "id": 15,
         "name": "Porsiyon Makaron",
         "image": "/images/makaron.jpeg",
-        "price": "205 TL"
+        "price": "225 TL"
       },
       {
         "id": 16,
         "name": "Pancake",
         "image": "/images/pancake.jpeg",
-        "price": "235 TL"
+        "price": "275 TL"
       },
       {
         "id": 17,
         "name": "San Sebastian Cheesecake",
         "image": "/images/san sebastian cheesecake.jpeg",
-        "price": "165 TL"
+        "price": "210 TL"
       },
       {
         "id": 18,
         "name": "Fıstığım Pasta",
         "image": "/images/fıstığım pasta.jpeg",
-        "price": "165 TL"
+        "price": "200 TL"
       },
       {
         "id": 19,
         "name": "Karam Pasta",
         "image": "/images/karam pasta.jpeg",
-        "price": "162 TL"
+        "price": "175 TL"
       },
       {
         "id": 20,
         "name": "Red Velvet Pasta",
         "image": "/images/red velvet pasta.jpeg",
-        "price": "162 TL"
+        "price": "175 TL"
       },
       {
         "id": 21,
         "name": "Balım Pasta",
         "image": "/images/balım pasta.jpeg",
-        "price": "165 TL"
+        "price": "175 TL"
       },
       {
         "id": 121,
@@ -156,7 +156,7 @@
         "name": "Meyve Bardağı",
         "image": "/images/meyve_tabagi.jpeg",
         "description": "(İstenilen meyve ve Belçika çikoltasıyla beraber)",
-        "price": "160 TL"
+        "price": "200 TL"
       }
     ]
   },
@@ -169,43 +169,43 @@
         "id": 22,
         "name": "Soğan Halkası ve Patates Kızartması",
         "image": "/images/soğan halkası ve pat.kız..jpeg",
-        "price": "185 TL"
+        "price": "210 TL"
       },
       {
         "id": 23,
         "name": "Patates Kızartması",
         "image": "/images/patates kızartması.jpeg",
-        "price": "165 TL"
+        "price": "200 TL"
       },
       {
         "id": 24,
         "name": "Kaşarlı Tost",
         "image": "/images/kaşarlı tost.jpeg",
-        "price": "205 TL"
+        "price": "220 TL"
       },
       {
         "id": 25,
         "name": "Bol Kaşarlı Tost",
         "image": "/images/kaşarlı tost.jpeg",
-        "price": "225 TL"
+        "price": "250 TL"
       },
       {
         "id": 26,
         "name": "Sade Omlet",
         "image": "/images/sade omlet.jpeg",
-        "price": "160 TL"
+        "price": "180 TL"
       },
       {
         "id": 27,
         "name": "Kaşarlı Sucuklu Tost",
         "image": "/images/kaşarlı sucuklu tost.jpeg",
-        "price": "225 TL"
+        "price": "250 TL"
       },
       {
         "id": 28,
         "name": "Kaşarlı Omlet",
         "image": "/images/kaşarlı omlet.jpeg",
-        "price": "170 TL"
+        "price": "200 TL"
       }
     ]
   },
@@ -218,19 +218,19 @@
         "id": 29,
         "name": "Sade Menemen",
         "image": "/images/sade menemen.jpeg",
-        "price": "205 TL"
+        "price": "225 TL"
       },
       {
         "id": 30,
         "name": "Kaşarlı Menemen",
         "image": "/images/kaşarlı menemen.jpeg",
-        "price": "210 TL"
+        "price": "240 TL"
       },
       {
         "id": 31,
         "name": "Sucuklu Menemen",
         "image": "/images/sucuklu menemen.jpeg",
-        "price": "215 TL"
+        "price": "250 TL"
       }
     ]
   },
