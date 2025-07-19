@@ -34,7 +34,7 @@
         "name": "1 Top Dondurma",
         "price": "75 TL",
         "image": "/images/dondurma.jpeg",
-        "description": "Sade, Çikolata, Antep Fıstık, Limon, Çilek, Bisküvi, Kavun, Hindistan Cevizi, Karamel, Mavi Melek, Oreo, Frambuaz, Cheesecake, Ceviz, Bal, Badem, Snickers, Mango, Yeşil Elma, Tutti Frutti, Nane, Muz, Bitter, Portakal, Kiraz, Tiramisu"
+        "description": "Damla Sakızı, Sade, Çikolata, Antep Fıstık, Limon, Çilek, Bisküvi, Kavun, Hindistan Cevizi, Karamel, Mavi Melek, Oreo, Frambuaz, Cheesecake, Ceviz, Bal Badem, Snickers, Mango, Yeşil Elma, Tutti Frutti, Nane, Muz, Bitter, Portakal, Kiraz, Tiramisu"
       }
     ]
   },
@@ -53,13 +53,13 @@
         "id": 6,
         "name": "Mozaik Pasta",
         "image": "/images/mozaik pasta.jpeg",
-        "price": "175 TL"
+        "price": "220 TL"
       },
       {
         "id": 7,
         "name": "Magnolia",
         "image": "/images/magnolia.jpeg",
-        "price": "185 TL"
+        "price": "245 TL"
       },
       {
         "id": 8,
@@ -77,37 +77,37 @@
         "id": 10,
         "name": "Krep",
         "image": "/images/krep.jpeg",
-        "price": "275 TL"
+        "price": "320 TL"
       },
       {
         "id": 11,
         "name": "Çikolatalı Sufle",
         "image": "/images/sufle.jpeg",
-        "price": "175 TL"
+        "price": "245 TL"
       },
       {
         "id": 12,
         "name": "Frambuazlı Cheesecake",
         "image": "/images/frambuazlı cheesecake.jpeg",
-        "price": "175 TL"
+        "price": "245 TL"
       },
       {
         "id": 13,
         "name": "Limonlu Cheesecake",
         "image": "/images/limonlu cheesecake.jpeg",
-        "price": "175 TL"
+        "price": "245 TL"
       },
       {
         "id": 14,
         "name": "Fondü (1 Kişilik)",
         "image": "/images/fondü.jpeg",
-        "price": "275 TL"
+        "price": "330 TL"
       },
       {
         "id": 15,
         "name": "Fondü (1-2 Kişilik)",
         "image": "/images/fondü.jpeg",
-        "price": "300 TL"
+        "price": "375 TL"
       },
       {
         "id": 16,
@@ -131,43 +131,43 @@
         "id": 19,
         "name": "Pancake",
         "image": "/images/pancake.jpeg",
-        "price": "275 TL"
+        "price": "320 TL"
       },
       {
         "id": 20,
         "name": "San Sebastian Cheesecake",
         "image": "/images/san sebastian cheesecake.jpeg",
-        "price": "210 TL"
+        "price": "245 TL"
       },
       {
         "id": 21,
         "name": "Fıstığım Pasta",
         "image": "/images/fıstığım pasta.jpeg",
-        "price": "200 TL"
+        "price": "245 TL"
       },
       {
         "id": 22,
         "name": "Karam Pasta",
         "image": "/images/karam pasta.jpeg",
-        "price": "175 TL"
+        "price": "245 TL"
       },
       {
         "id": 23,
         "name": "Red Velvet Pasta",
         "image": "/images/red velvet pasta.jpeg",
-        "price": "175 TL"
+        "price": "245 TL"
       },
       {
         "id": 24,
         "name": "Balım Pasta",
         "image": "/images/balım pasta.jpeg",
-        "price": "175 TL"
+        "price": "245 TL"
       },
       {
         "id": 25,
         "name": "Profiterol",
         "image": "/images/profiterol.jpeg",
-        "price": "165 TL"
+        "price": "245 TL"
       },
       {
         "id": 26,
@@ -187,7 +187,7 @@
         "id": 27,
         "name": "Soğan Halkası ve Patates Kızartması",
         "image": "/images/soğan halkası ve pat.kız..jpeg",
-        "price": "260 TL"
+          "price": "260 TL"
       },
       {
         "id": 28,
@@ -255,7 +255,7 @@
         "id": 36,
         "name": "Kaşarlı Omlet",
         "image": "/images/kaşarlı omlet.jpeg",
-        "price": "250 TL"
+          "price": "250 TL"
       },
       {
         "id": 37,
@@ -280,7 +280,7 @@
         "id": 39,
         "name": "Sade Menemen",
         "image": "/images/sade menemen.jpeg",
-        "price": "280 TL"
+          "price": "280 TL"
       },
       {
         "id": 40,
@@ -292,7 +292,7 @@
         "id": 41,
         "name": "Sucuklu Menemen",
         "image": "/images/sucuklu menemen.jpeg",
-        "price": "290 TL"
+            "price": "290 TL"
       }
     ]
   },
@@ -336,7 +336,7 @@
         "id": 46,
         "name": "Americano",
         "image": "/images/americano.jpeg",
-        "price": "115 TL"
+        "price": "155 TL"
       },
       {
         "id": 47,
@@ -396,19 +396,33 @@
         "id": 56,
         "name": "Türk Kahvesi",
         "image": "/images/turk_kahvesi.jpeg",
-        "price": "82 TL"
+        "price": "115 TL"
       },
       {
         "id": 57,
         "name": "Damla Sakızlı Türk Kahvesi",
         "image": "/images/turk_kahvesi.jpeg",
-        "price": "85 TL"
+        "price": "120 TL"
       },
       {
         "id": 58,
         "name": "Çilekli Türk Kahvesi",
         "image": "/images/turk_kahvesi.jpeg",
-        "price": "85 TL"
+        "price": "120 TL"
+      },
+      
+      {
+        "id": 108,
+        "name": "Menengiç Kahvesi",
+        "image": "/images/turk_kahvesi.jpeg",
+        "price": "120 TL"
+      },
+      
+      {
+        "id": 109,
+        "name": "Dibek Kahvesi",
+        "image": "/images/turk_kahvesi.jpeg",
+        "price": "120 TL"
       }
     ]
   },
@@ -593,37 +607,37 @@
         "id": 83,
         "name": "Bardak Çay",
         "image": "/images/bardak çay.jpeg",
-        "price": "35 TL"
+        "price": "45 TL"
       },
       {
         "id": 84,
         "name": "Fincan Çay",
         "image": "/images/fincan çay.jpeg",
-        "price": "42 TL"
+        "price": "55 TL"
       },
       {
         "id": 85,
         "name": "Sahlep",
         "image": "/images/sahlep.jpeg",
-        "price": "102 TL"
+        "price": "130 TL"
       },
       {
         "id": 86,
         "name": "Sıcak Çikolata",
         "image": "/images/sıcak çikolata.jpeg",
-        "price": "102 TL"
+        "price": "135 TL"
       },
       {
         "id": 87,
         "name": "Beyaz Sıcak Çikolata",
         "image": "/images/beyaz sıcak çikolata.jpeg",
-        "price": "95 TL"
+        "price": "135 TL"
       },
       {
         "id": 88,
         "name": "Bitki Çayları",
         "image": "/images/bitki çayı.jpeg",
-        "price": "125 TL",
+        "price": "175 TL",
         "description": "Yeşil Çay, Ada Çayı, Papatya Çayı, Kış Çayı, Elma-Tarçın Çayı, Ihlamur Çayı, Hibiskus Çayı"
       }
     ]
@@ -668,25 +682,25 @@
         "id": 93,
         "name": "Coca Cola",
         "image": "/images/cola.jpeg",
-        "price": "68 TL"
+        "price": "95 TL"
       },
       {
         "id": 94,
         "name": "Coca Cola Zero",
         "image": "/images/cola zero.jpeg",
-        "price": "68 TL"
+        "price": "95 TL"
       },
       {
         "id": 95,
         "name": "Fanta",
         "image": "/images/fanta.jpeg",
-        "price": "68 TL"
+        "price": "95 TL"
       },
       {
         "id": 96,
         "name": "Sprite",
         "image": "/images/sprite.jpeg",
-        "price": "68 TL"
+        "price": "95 TL"
       },
       {
         "id": 97,
@@ -704,38 +718,38 @@
         "id": 99,
         "name": "Ice Tea",
         "image": "/images/ice tea.jpeg",
-        "price": "68 TL",
+        "price": "95 TL",
         "description": "Limon, Şeftali"
       },
       {
         "id": 100,
         "name": "Sade Soda",
         "image": "/images/sade soda.jpeg",
-        "price": "64 TL"
+        "price": "80 TL"
       },
       {
         "id": 101,
         "name": "Meyveli Soda",
         "image": "/images/meyveli soda.jpeg",
-        "price": "65 TL"
+        "price": "85 TL"
       },
       {
         "id": 102,
         "name": "Churchill",
         "image": "/images/churchill.jpeg",
-        "price": "65 TL"
+        "price": "85 TL"
       },
       {
         "id": 103,
         "name": "Redbull",
         "image": "/images/redbull.jpeg",
-        "price": "100 TL"
+        "price": "155 TL"
       },
       {
         "id": 104,
         "name": "Su",
         "image": "/images/su.jpeg",
-        "price": "35 TL"
+        "price": "45 TL"
       }
     ]
   }
