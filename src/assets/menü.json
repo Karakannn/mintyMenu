@@ -7,14 +7,20 @@
       {
         "id": 1,
         "name": "Seçmeli Waffle",
-        "price": "250 TL",
+        "price": "350 TL",
         "image": "/images/waffle.jpeg"
       },
       {
         "id": 2,
         "name": "Seçmeli Waffle (1 Top Dondurma ile)",
-        "price": "275 TL",
+        "price": "390 TL",
         "image": "/images/waffle.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Bardak Waffle",
+        "price": "320 TL",
+        "image": "/images/bardakwaffle.jpeg"
       }
     ]
   },
@@ -24,9 +30,9 @@
     "image": "/mainImages/dondurma.jpeg",
     "items": [
       {
-        "id": 3,
+        "id": 4,
         "name": "1 Top Dondurma",
-        "price": "50 TL",
+        "price": "75 TL",
         "image": "/images/dondurma.jpeg",
         "description": "Sade, Çikolata, Antep Fıstık, Limon, Çilek, Bisküvi, Kavun, Hindistan Cevizi, Karamel, Mavi Melek, Oreo, Frambuaz, Cheesecake, Ceviz, Bal, Badem, Snickers, Mango, Yeşil Elma, Tutti Frutti, Nane, Muz, Bitter, Portakal, Kiraz, Tiramisu"
       }
@@ -38,199 +44,286 @@
     "image": "/mainImages/tatlılar.jpeg",
     "items": [
       {
-        "id": 4,
+        "id": 5,
+        "name": "Aşk Pasta",
+        "image": "/images/askpasta.jpeg",
+        "price": "255 TL"
+      },
+      {
+        "id": 6,
         "name": "Mozaik Pasta",
         "image": "/images/mozaik pasta.jpeg",
         "price": "175 TL"
       },
       {
-        "id": 5,
+        "id": 7,
         "name": "Magnolia",
         "image": "/images/magnolia.jpeg",
         "price": "185 TL"
       },
       {
-        "id": 6,
+        "id": 8,
         "name": "Tiramisu",
         "image": "/images/tiramisu.jpeg",
         "price": "175 TL"
       },
       {
-        "id": 7,
+        "id": 9,
         "name": "İrmik Helvası",
         "image": "/images/irmik helvası.jpeg",
         "price": "135 TL"
       },
       {
-        "id": 8,
+        "id": 10,
         "name": "Krep",
         "image": "/images/krep.jpeg",
         "price": "275 TL"
       },
       {
-        "id": 9,
+        "id": 11,
         "name": "Çikolatalı Sufle",
         "image": "/images/sufle.jpeg",
         "price": "175 TL"
       },
       {
-        "id": 10,
+        "id": 12,
         "name": "Frambuazlı Cheesecake",
         "image": "/images/frambuazlı cheesecake.jpeg",
         "price": "175 TL"
       },
       {
-        "id": 11,
+        "id": 13,
         "name": "Limonlu Cheesecake",
         "image": "/images/limonlu cheesecake.jpeg",
         "price": "175 TL"
       },
       {
-        "id": 12,
+        "id": 14,
         "name": "Fondü (1 Kişilik)",
         "image": "/images/fondü.jpeg",
         "price": "275 TL"
       },
       {
-        "id": 13,
+        "id": 15,
         "name": "Fondü (1-2 Kişilik)",
         "image": "/images/fondü.jpeg",
         "price": "300 TL"
       },
       {
-        "id": 14,
+        "id": 16,
         "name": "Dondurma Delisi",
         "image": "/images/dondurma delisi.jpeg",
-        "price": "325 TL"
+        "price": "450 TL"
       },
       {
-        "id": 15,
-        "name": "Porsiyon Makaron",
+        "id": 17,
+        "name": "Bir Adet Makaron (Çikolata, Karamel, Antep Fıstığı)",
         "image": "/images/makaron.jpeg",
-        "price": "225 TL"
+        "price": "70 TL"
       },
       {
-        "id": 16,
+        "id": 18,
+        "name": "Porsiyon Makaron (Dilediğiniz 4 çeşit)",
+        "image": "/images/makaron.jpeg",
+        "price": "260 TL"
+      },
+      {
+        "id": 19,
         "name": "Pancake",
         "image": "/images/pancake.jpeg",
         "price": "275 TL"
       },
       {
-        "id": 17,
+        "id": 20,
         "name": "San Sebastian Cheesecake",
         "image": "/images/san sebastian cheesecake.jpeg",
         "price": "210 TL"
       },
       {
-        "id": 18,
+        "id": 21,
         "name": "Fıstığım Pasta",
         "image": "/images/fıstığım pasta.jpeg",
         "price": "200 TL"
       },
       {
-        "id": 19,
+        "id": 22,
         "name": "Karam Pasta",
         "image": "/images/karam pasta.jpeg",
         "price": "175 TL"
       },
       {
-        "id": 20,
+        "id": 23,
         "name": "Red Velvet Pasta",
         "image": "/images/red velvet pasta.jpeg",
         "price": "175 TL"
       },
       {
-        "id": 21,
+        "id": 24,
         "name": "Balım Pasta",
         "image": "/images/balım pasta.jpeg",
         "price": "175 TL"
       },
       {
-        "id": 121,
+        "id": 25,
         "name": "Profiterol",
         "image": "/images/profiterol.jpeg",
         "price": "165 TL"
       },
       {
-        "id": 122,
+        "id": 26,
         "name": "Meyve Bardağı",
         "image": "/images/meyve_tabagi.jpeg",
         "description": "(İstenilen meyve ve Belçika çikoltasıyla beraber)",
-        "price": "200 TL"
+        "price": "300 TL"
       }
     ]
   },
   {
-    "category": "Tostlar, Omletler ve Patates Kızartması",
+    "category": "Tostlar ve Patates Kızartması",
     "slug": "toasts-and-sides",
     "image": "/mainImages/tost omlet ve pat.kız..jpeg",
     "items": [
       {
-        "id": 22,
+        "id": 27,
         "name": "Soğan Halkası ve Patates Kızartması",
         "image": "/images/soğan halkası ve pat.kız..jpeg",
-        "price": "210 TL"
-      },
-      {
-        "id": 23,
-        "name": "Patates Kızartması",
-        "image": "/images/patates kızartması.jpeg",
-        "price": "200 TL"
-      },
-      {
-        "id": 24,
-        "name": "Kaşarlı Tost",
-        "image": "/images/kaşarlı tost.jpeg",
-        "price": "220 TL"
-      },
-      {
-        "id": 25,
-        "name": "Bol Kaşarlı Tost",
-        "image": "/images/kaşarlı tost.jpeg",
-        "price": "250 TL"
-      },
-      {
-        "id": 26,
-        "name": "Sade Omlet",
-        "image": "/images/sade omlet.jpeg",
-        "price": "180 TL"
-      },
-      {
-        "id": 27,
-        "name": "Kaşarlı Sucuklu Tost",
-        "image": "/images/kaşarlı sucuklu tost.jpeg",
-        "price": "250 TL"
+        "price": "260 TL"
       },
       {
         "id": 28,
+        "name": "Patates Kızartması",
+        "image": "/images/patates kızartması.jpeg",
+        "price": "240 TL"
+      },
+      {
+        "id": 29,
+        "name": "Kaşarlı Tost",
+        "image": "/images/kaşarlı tost.jpeg",
+        "price": "260 TL"
+      },
+      {
+        "id": 30,
+        "name": "Bol Kaşarlı Tost",
+        "image": "/images/kaşarlı tost.jpeg",
+        "price": "280 TL"
+      },
+      {
+        "id": 31,
+        "name": "Kaşarlı Sucuklu Tost",
+        "image": "/images/kaşarlı sucuklu tost.jpeg",
+        "price": "270 TL"
+      }
+    ]
+  },
+  {
+    "category": "Sahanda Yumurtalar",
+    "slug": "toasts",
+    "image": "/mainImages/tost omlet ve pat.kız..jpeg",
+    "items": [
+      {
+        "id": 32,
+        "name": "Tereyağlı Göz Yumurta",
+        "image": "/images/tereyagliyumurta.jpg",
+        "price": "180 TL"
+      },
+      {
+        "id": 33,
+        "name": "Sucuklu Göz Yumurta",
+        "image": "/images/sucukluyumurta.jpeg",
+        "price": "220 TL"
+      },
+      {
+        "id": 34,
+        "name": "Peynirli Yumurta",
+        "image": "/images/peynirliyumurta.jpg",
+        "price": "210 TL"
+      }
+    ]
+  },
+  {
+    "category": "Omletler",
+    "slug": "toasts",
+    "image": "/mainImages/tost omlet ve pat.kız..jpeg",
+    "items": [
+      {
+        "id": 35,
+        "name": "Tereyağlı Omlet",
+        "image": "/images/kaşarlı omlet.jpeg",
+        "price": "240 TL"
+      },
+      {
+        "id": 36,
         "name": "Kaşarlı Omlet",
         "image": "/images/kaşarlı omlet.jpeg",
-        "price": "200 TL"
+        "price": "250 TL"
+      },
+      {
+        "id": 37,
+        "name": "Sucuklu Omlet",
+        "image": "/images/sucukluomlet.webp",
+        "price": "260 TL"
+      },
+      {
+        "id": 38,
+        "name": "Peynirli Omlet",
+        "image": "/images/peynirliomlet.jpeg",
+        "price": "245 TL"
       }
     ]
   },
   {
     "category": "Menemenler",
-    "slug": "menemen",
-    "image": "/images/sade menemen.jpeg",
+    "slug": "sides",
+    "image": "/mainImages/tost omlet ve pat.kız..jpeg",
     "items": [
       {
-        "id": 29,
+        "id": 39,
         "name": "Sade Menemen",
         "image": "/images/sade menemen.jpeg",
-        "price": "225 TL"
+        "price": "280 TL"
       },
       {
-        "id": 30,
+        "id": 40,
         "name": "Kaşarlı Menemen",
         "image": "/images/kaşarlı menemen.jpeg",
-        "price": "240 TL"
+        "price": "285 TL"
       },
       {
-        "id": 31,
+        "id": 41,
         "name": "Sucuklu Menemen",
         "image": "/images/sucuklu menemen.jpeg",
-        "price": "250 TL"
+        "price": "290 TL"
+      }
+    ]
+  },
+  {
+    "category": "Burgerler",
+    "slug": "breakfast",
+    "image": "/mainImages/tost omlet ve pat.kız..jpeg",
+    "items": [
+      {
+        "id": 42,
+        "name": "Classic Burger (Eşsiz 120gr köfte, kornişon turşu, domates , marul, patates kızartması, soğan halkası ile)",
+        "image": "/images/classicburger.jpeg",
+        "price": "380 TL"
+      },
+      {
+        "id": 43,
+        "name": "Doritos Burger (Eşsiz 120gr köfte, doritos,cheddar peynir, karamelize soğan, patates kızartması ile)",
+        "image": "/images/doritosburger.jpeg",
+        "price": "395 TL"
+      },
+      {
+        "id": 44,
+        "name": "Cheeseburger (Eşsiz 120 gr köfte, cheddar peyniri, kornişon turşu, domates, marul, patates kızartması ile)",
+        "image": "/images/cheeseburger.jpeg",
+        "price": "405 TL"
+      },
+      {
+        "id": 45,
+        "name": "Tavuk Burger (Eşsiz 120 gr tavuk, kornişon turşu, domates, marul, patates kızartması ile)",
+        "image": "/images/tavukburger.jpeg",
+        "price": "350 TL"
       }
     ]
   },
@@ -240,85 +333,79 @@
     "image": "/mainImages/kahveler.jpeg",
     "items": [
       {
-        "id": 32,
+        "id": 46,
         "name": "Americano",
         "image": "/images/americano.jpeg",
         "price": "115 TL"
       },
       {
-        "id": 33,
+        "id": 47,
         "name": "Caffe Latte",
         "image": "/images/cafe latte.jpeg",
-        "price": "115 TL"
+        "price": "170 TL"
       },
       {
-        "id": 34,
+        "id": 48,
         "name": "Caffe Mocha",
         "image": "/images/cafe mocha.jpeg",
-        "price": "121 TL"
+        "price": "175 TL"
       },
       {
-        "id": 35,
+        "id": 49,
         "name": "Aromalı Latte",
         "image": "/images/aromalı latte.jpeg",
-        "price": "121 TL"
+        "price": "175 TL"
       },
       {
-        "id": 36,
+        "id": 50,
         "name": "Double Espresso",
         "image": "/images/double espresso.jpeg",
-        "price": "109 TL"
+        "price": "150 TL"
       },
       {
-        "id": 37,
-        "name": "Single Espresso",
-        "image": "/images/single espresso.jpeg",
-        "price": "109 TL"
-      },
-      {
-        "id": 38,
+        "id": 51,
         "name": "Cappuccino",
         "image": "/images/cappuccino.jpeg",
-        "price": "115 TL"
+        "price": "165 TL"
       },
       {
-        "id": 39,
-        "name": "Aromalı Cappuccino",
+        "id": 52,
+        "name": "Aromalı Cappuccino (Karamel, Fındık, Çikolata, Vanilya)",
         "image": "/images/aromalı cappuccino.jpeg",
-        "price": "121 TL"
+        "price": "175 TL"
       },
       {
-        "id": 40,
+        "id": 53,
         "name": "White Chocolate Mocha",
         "image": "/images/white chocolate mocha.jpeg",
-        "price": "121 TL"
+        "price": "175 TL"
       },
       {
-        "id": 41,
+        "id": 54,
         "name": "Filtre Kahve",
         "image": "/images/filtre kahve.jpeg",
-        "price": "108 TL"
+        "price": "140 TL"
       },
       {
-        "id": 42,
+        "id": 55,
         "name": "Nescafe Gold",
         "image": "/images/nescafe gold.jpeg",
-        "price": "109 TL"
+        "price": "130 TL"
       },
       {
-        "id": 100,
+        "id": 56,
         "name": "Türk Kahvesi",
         "image": "/images/turk_kahvesi.jpeg",
         "price": "82 TL"
       },
       {
-        "id": 101,
+        "id": 57,
         "name": "Damla Sakızlı Türk Kahvesi",
         "image": "/images/turk_kahvesi.jpeg",
         "price": "85 TL"
       },
       {
-        "id": 103,
+        "id": 58,
         "name": "Çilekli Türk Kahvesi",
         "image": "/images/turk_kahvesi.jpeg",
         "price": "85 TL"
@@ -331,46 +418,46 @@
     "image": "/mainImages/soğuk kahveler.jpeg",
     "items": [
       {
-        "id": 43,
+        "id": 59,
         "name": "Buzlu Americano",
         "image": "/images/buzlu americano.jpeg",
-        "price": "115 TL"
+        "price": "175 TL"
       },
       {
-        "id": 44,
+        "id": 60,
         "name": "Buzlu Latte",
         "image": "/images/buzlu latte.jpeg",
-        "price": "120 TL"
+        "price": "180 TL"
       },
       {
-        "id": 45,
+        "id": 61,
         "name": "Buzlu Mocha",
         "image": "/images/buzlu mocha.jpeg",
-        "price": "128 TL"
+        "price": "185 TL"
       },
       {
-        "id": 46,
+        "id": 62,
         "name": "Buzlu Fındık",
         "image": "/images/buzlu fındık.jpeg",
-        "price": "128 TL"
+        "price": "185 TL"
       },
       {
-        "id": 47,
+        "id": 63,
         "name": "Buzlu Karamel",
         "image": "/images/buzlu karamel.jpeg",
-        "price": "128 TL"
+        "price": "185 TL"
       },
       {
-        "id": 48,
+        "id": 64,
         "name": "Buzlu Beyaz Çikolata",
         "image": "/images/buzlu beyaz çikolata.jpeg",
-        "price": "128 TL"
+        "price": "185 TL"
       },
       {
-        "id": 148,
+        "id": 65,
         "name": "Affogato Coffee",
         "image": "/images/affogato.jpeg",
-        "price": "125 TL"
+        "price": "200 TL"
       }
     ]
   },
@@ -380,34 +467,34 @@
     "image": "/mainImages/milkshakeler.jpeg",
     "items": [
       {
-        "id": 49,
+        "id": 66,
         "name": "Çikolatalı Milkshake",
         "image": "/images/çikolatalı milkshake.jpeg",
-        "price": "132 TL"
+        "price": "200 TL"
       },
       {
-        "id": 50,
+        "id": 67,
         "name": "Çilekli Milkshake",
         "image": "/images/çilekli milkshake.jpeg",
-        "price": "132 TL"
+        "price": "200 TL"
       },
       {
-        "id": 51,
+        "id": 68,
         "name": "Karamelli Milkshake",
         "image": "/images/karamelli milkshake.jpeg",
-        "price": "132 TL"
+        "price": "200 TL"
       },
       {
-        "id": 52,
+        "id": 69,
         "name": "Vanilyalı Milkshake",
         "image": "/images/vanilyalı milkshake.jpeg",
-        "price": "132 TL"
+        "price": "200 TL"
       },
       {
-        "id": 53,
+        "id": 70,
         "name": "Oreolu Milkshake",
         "image": "/images/oreolu milkshake.jpeg",
-        "price": "132 TL"
+        "price": "200 TL"
       }
     ]
   },
@@ -417,52 +504,52 @@
     "image": "/mainImages/frozenlar.jpeg",
     "items": [
       {
-        "id": 54,
+        "id": 71,
         "name": "Kivili Frozen",
         "image": "/images/kivili frozen.jpeg",
-        "price": "120 TL"
+        "price": "185 TL"
       },
       {
-        "id": 55,
+        "id": 72,
         "name": "Çilekli Frozen",
         "image": "/images/çilekli frozen.jpeg",
-        "price": "120 TL"
+        "price": "185 TL"
       },
       {
-        "id": 56,
+        "id": 73,
         "name": "Kavunlu Frozen",
         "image": "/images/kavunlu frozen.jpeg",
-        "price": "120 TL"
+        "price": "185 TL"
       },
       {
-        "id": 57,
+        "id": 74,
         "name": "Nane-Limon Frozen",
         "image": "/images/nane limon frozen.jpeg",
-        "price": "120 TL"
+        "price": "185 TL"
       },
       {
-        "id": 58,
+        "id": 75,
         "name": "Limon Frozen",
         "image": "/images/limonlu frozen.jpeg",
-        "price": "120 TL"
+        "price": "185 TL"
       },
       {
-        "id": 59,
+        "id": 76,
         "name": "Şeftali Frozen",
         "image": "/images/şeftali frozen.jpeg",
-        "price": "120 TL"
+        "price": "185 TL"
       },
       {
-        "id": 160,
+        "id": 77,
         "name": "Karpuz Frozen",
         "image": "/images/karpuzfrozen.jpg",
-        "price": "128 TL"
+        "price": "185 TL"
       },
       {
-        "id": 60,
+        "id": 78,
         "name": "Tropikano Frozen",
         "image": "/images/tropikano frozen.jpeg",
-        "price": "128 TL"
+        "price": "195 TL"
       }
     ]
   },
@@ -472,28 +559,28 @@
     "image": "/mainImages/frappeler.jpeg",
     "items": [
       {
-        "id": 61,
+        "id": 79,
         "name": "Mocha Frappe",
         "image": "/images/mocha frappe.jpeg",
-        "price": "120 TL"
+        "price": "180 TL"
       },
       {
-        "id": 62,
+        "id": 80,
         "name": "Karamel Frappe",
         "image": "/images/karamel frappe.jpeg",
-        "price": "120 TL"
+        "price": "180 TL"
       },
       {
-        "id": 63,
+        "id": 81,
         "name": "Oreo Frappe",
         "image": "/images/oreo frappe.jpeg",
-        "price": "120 TL"
+        "price": "180 TL"
       },
       {
-        "id": 64,
+        "id": 82,
         "name": "Dondurmalı Frappe",
         "image": "/images/dondurmalı frappe.jpeg",
-        "price": "142 TL"
+        "price": "190 TL"
       }
     ]
   },
@@ -503,37 +590,37 @@
     "image": "/mainImages/sıcak içecekler.jpeg",
     "items": [
       {
-        "id": 65,
+        "id": 83,
         "name": "Bardak Çay",
         "image": "/images/bardak çay.jpeg",
         "price": "35 TL"
       },
       {
-        "id": 66,
+        "id": 84,
         "name": "Fincan Çay",
         "image": "/images/fincan çay.jpeg",
         "price": "42 TL"
       },
       {
-        "id": 67,
+        "id": 85,
         "name": "Sahlep",
         "image": "/images/sahlep.jpeg",
         "price": "102 TL"
       },
       {
-        "id": 68,
+        "id": 86,
         "name": "Sıcak Çikolata",
         "image": "/images/sıcak çikolata.jpeg",
         "price": "102 TL"
       },
       {
-        "id": 69,
+        "id": 87,
         "name": "Beyaz Sıcak Çikolata",
         "image": "/images/beyaz sıcak çikolata.jpeg",
         "price": "95 TL"
       },
       {
-        "id": 70,
+        "id": 88,
         "name": "Bitki Çayları",
         "image": "/images/bitki çayı.jpeg",
         "price": "125 TL",
@@ -547,22 +634,28 @@
     "image": "/mainImages/taze meyve suları.jpeg",
     "items": [
       {
-        "id": 71,
+        "id": 89,
         "name": "Taze Portakal Suyu",
         "image": "/images/sıkma portakal suyu.jpeg",
-        "price": "100 TL"
+        "price": "160 TL"
       },
       {
-        "id": 72,
+        "id": 90,
         "name": "Doğal Limonata",
         "image": "/images/doğal limonata.jpeg",
-        "price": "95 TL"
+        "price": "140 TL"
       },
       {
-        "id": 73,
+        "id": 91,
+        "name": "Doğal Çilekli Limonata",
+        "image": "/images/cileklilimonata.jpg",
+        "price": "150 TL"
+      },
+      {
+        "id": 92,
         "name": "Muzlu Süt",
         "image": "/images/muzlu süt.jpeg",
-        "price": "108 TL"
+        "price": "160 TL"
       }
     ]
   },
@@ -572,68 +665,74 @@
     "image": "/mainImages/soğuk içecekler.jpeg",
     "items": [
       {
-        "id": 74,
+        "id": 93,
         "name": "Coca Cola",
         "image": "/images/cola.jpeg",
         "price": "68 TL"
       },
       {
-        "id": 75,
+        "id": 94,
         "name": "Coca Cola Zero",
         "image": "/images/cola zero.jpeg",
         "price": "68 TL"
       },
       {
-        "id": 76,
+        "id": 95,
         "name": "Fanta",
         "image": "/images/fanta.jpeg",
         "price": "68 TL"
       },
       {
-        "id": 77,
+        "id": 96,
         "name": "Sprite",
         "image": "/images/sprite.jpeg",
         "price": "68 TL"
       },
       {
-        "id": 78,
-        "name": "Cappy",
-        "image": "/images/cappy.jpeg",
-        "price": "68 TL"
+        "id": 97,
+        "name": "Ayran",
+        "image": "/images/ayran.jpg",
+        "price": "85 TL"
       },
       {
-        "id": 79,
+        "id": 98,
+        "name": "Naneli Ayran",
+        "image": "/images/naneliayran.webp",
+        "price": "90 TL"
+      },
+      {
+        "id": 99,
         "name": "Ice Tea",
         "image": "/images/ice tea.jpeg",
         "price": "68 TL",
         "description": "Limon, Şeftali"
       },
       {
-        "id": 80,
+        "id": 100,
         "name": "Sade Soda",
         "image": "/images/sade soda.jpeg",
         "price": "64 TL"
       },
       {
-        "id": 81,
+        "id": 101,
         "name": "Meyveli Soda",
         "image": "/images/meyveli soda.jpeg",
         "price": "65 TL"
       },
       {
-        "id": 107,
+        "id": 102,
         "name": "Churchill",
         "image": "/images/churchill.jpeg",
         "price": "65 TL"
       },
       {
-        "id": 82,
+        "id": 103,
         "name": "Redbull",
         "image": "/images/redbull.jpeg",
         "price": "100 TL"
       },
       {
-        "id": 105,
+        "id": 104,
         "name": "Su",
         "image": "/images/su.jpeg",
         "price": "35 TL"
