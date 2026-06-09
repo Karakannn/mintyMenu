@@ -4,6 +4,7 @@ import Layout from "./containers/Layout";
 import Home from "./containers/Home";
 import Categories from "./containers/Category";
 import { Suspense } from "react";
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   const router = createBrowserRouter([
@@ -17,7 +18,7 @@ function App() {
           </Link>
         ),
       },
-      
+
       children: [
         {
           index: true,
@@ -43,6 +44,7 @@ function App() {
   return (
     <Suspense fallback={<>..loading</>}>
       <RouterProvider router={router} />
+      <Analytics />
     </Suspense>
   );
 }
